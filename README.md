@@ -9,5 +9,5 @@
 * tasya@basyiri.my.id (EOL-112222)
 
 # Emergency Hotlines (Saluran Darurat)
-* 0821-2455-0821
-* 0895-41297-3843
+* +62-821-2455-0821
+* +62-895-41297-3843
